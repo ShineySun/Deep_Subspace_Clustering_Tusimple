@@ -9,15 +9,14 @@ class Custom_dataset(Dataset):
         self.transfrom = transform
 
 
-       
-        
+
+
 
     def __getitem__(self, idx):
-        label = [0,1,2,3]
 
-        return 
+        return
 
     def __len__(self):
 
-        
-        return 
+
+        return
